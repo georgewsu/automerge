@@ -4,3 +4,4 @@ dist
 docs/
 .vim
 deno_dist/
+.idea/
